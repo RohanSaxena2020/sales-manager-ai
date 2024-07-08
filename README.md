@@ -1,2 +1,2 @@
-# sales-manager-ai
-Ai app which allows you to record audio, transcribes audio, and allows you to upload it to a trained AI agent. 
+# free-scribe
+ Free Scribe app which allows the user to record and transcribes / translates using ML model
